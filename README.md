@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ultrarobot
-- 👀 I’m interested in coding, play Games.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 My emailadress rexcelsior42@gmail.com
 
 <!---
