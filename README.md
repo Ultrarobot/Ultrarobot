@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ultrarobot
-- 🌱 I’m currently learning python.
-- 📫 My emailadress rexcelsior42@gmail.com
+- 👋 Hi, I’m @Jamie_95
+- 📫 My emailadress jamie@hhofnarr.eu
 
 <!---
 Ultrarobot/Ultrarobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
